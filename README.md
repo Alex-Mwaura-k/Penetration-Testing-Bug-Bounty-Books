@@ -2,7 +2,7 @@
 
 **Disclaimer:** *For Educational Purposes Only. The knowledge within these resources should never be used commercially without explicit, written permission from the target (i.e., ethical hacking only).*
 
-Welcome to the ultimate reading list for aspiring and seasoned Penetration Testers and Bug Bounty Hunters. Staring at a folder of 20+ technical PDFs can be overwhelming. This guide organizes these books into a **Strategic Learning Roadmap** so you can consume them effectively, building your knowledge from foundational concepts to advanced exploitation.
+Welcome to the ultimate reading list for aspiring and seasoned Penetration Testers and Bug Bounty Hunters. Staring at a folder of 20+ technical PDFs can be overwhelming. This guide organizes the included books into a **Strategic Learning Roadmap** so you can consume them effectively, building your knowledge from foundational concepts to advanced exploitation.
 
 ---
 
@@ -10,11 +10,11 @@ Welcome to the ultimate reading list for aspiring and seasoned Penetration Teste
 
 **Do not read these cover-to-cover like a novel.** Technical books are best consumed practically. Read a chapter, then go practice the concepts on platforms like PortSwigger Web Security Academy, HackTheBox, or TryHackMe. 
 
-Here is the recommended reading order based on your progression.
+Here is the recommended reading order based on your progression:
 
 ### 🟢 Phase 1: The Foundations (OS & Mindset)
 *Before you break things, you must understand how they are built.*
-1. **Linux Basics (for Hackers)** - Start here. You must be completely comfortable in a Linux terminal.
+1. **Linux Basics for Hackers** - Start here. You must be completely comfortable in a Linux terminal.
 2. **Think Like a Programmer** - Teaches you the logic and problem-solving mindset required to bypass developer logic.
 3. **Automate the Boring Stuff with Python** - Learn practical Python. As a hacker, scripting is your superpower for parsing logs and automating repetitive reconnaissance.
 
@@ -42,14 +42,24 @@ Here is the recommended reading order based on your progression.
 *For specialization in reverse engineering, exploit dev, and future-proofing your career.*
 15. **Practical Malware Analysis** - The gold standard for dissecting malicious executables. 
 16. **Rootkits and Bootkits** - Deep dive into how malware hides in the deepest parts of an operating system.
-17. **Dive Into Algorithms** & **The Art of Randomness** - Master these to find cryptographically weak implementations and logic flaws in complex backends.
-18. **How AI Works** - AI is the next major attack surface. Understand how LLMs and machine learning models function so you can red-team them.
-19. **Hacks, Leaks, and Revelations** - Excellent context on threat intelligence, data breaches, and handling leaked data.
+17. **Dive Into Algorithms** - Master algorithm basics to better understand complex backend logic flaws.
+18. **The Art of Randomness** - Crucial for finding cryptographically weak implementations.
+19. **How AI Works** - AI is the next major attack surface. Understand how machine learning models function so you can red-team them.
+20. **Hacks, Leaks, and Revelations** - Excellent context on threat intelligence, data breaches, and handling leaked data.
+
+---
+
+## 🌟 Bonus Reading (Not Included in Repo)
+*Once you have mastered the library above, consider tracking down these books to fill in the remaining gaps in the modern hacking landscape:*
+
+* **The Mobile Application Hacker's Handbook:** To bridge the gap into the lucrative world of iOS and Android bug bounties.
+* **Penetration Testing Azure for Ethical Hackers (or AWS equivalent):** To master Cloud Security, IAM privilege escalation, and serverless exploitation.
+* **The Pentester BluePrint:** To learn the professional side of the industry—building a resume, picking certifications, and landing your first role.
 
 ---
 
 ## 💡 Pro-Tips for Maximum Retention
 
-1. **Build While You Read:** If a book teaches you how to write a directory brute-forcer in Python, pause reading and write it.
-2. **Use as References:** Books like *The Web Application Hacker's Handbook* or *Practical Malware Analysis* are heavy. Use them as reference guides when you run into a specific technology on a bug bounty hunt.
-3. **Take Notes:** Maintain a personal Notion or Obsidian vault. Document specific payloads, methodologies, and commands you find in these books.
+* **Build While You Read:** If a book teaches you how to write a directory brute-forcer in Python, pause reading and write it.
+* **Use as References:** Books like *The Web Application Hacker's Handbook* or *Practical Malware Analysis* are heavy. Use them as reference guides when you run into a specific technology on a bug bounty hunt.
+* **Take Notes:** Maintain a personal Notion or Obsidian vault. Document specific payloads, methodologies, and commands you find in these books.
