@@ -1,6 +1,3 @@
----
-
-```markdown
 # 📚 Penetration Testing & Bug Bounty Reading Roadmap
 
 **Disclaimer:** *For Educational Purposes Only. The knowledge within these resources should never be used commercially without explicit, written permission from the target (i.e., ethical hacking only).*
@@ -56,5 +53,3 @@ Here is the recommended reading order based on your progression.
 1. **Build While You Read:** If a book teaches you how to write a directory brute-forcer in Python, pause reading and write it.
 2. **Use as References:** Books like *The Web Application Hacker's Handbook* or *Practical Malware Analysis* are heavy. Use them as reference guides when you run into a specific technology on a bug bounty hunt.
 3. **Take Notes:** Maintain a personal Notion or Obsidian vault. Document specific payloads, methodologies, and commands you find in these books.
-
-```
