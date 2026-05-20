@@ -14,12 +14,14 @@ Here is the recommended reading order based on your progression:
 
 ### 🟢 Phase 1: The Foundations (OS & Mindset)
 *Before you break things, you must understand how they are built.*
+
 1. **Linux Basics for Hackers** - Start here. You must be completely comfortable in a Linux terminal.
 2. **Think Like a Programmer** - Teaches you the logic and problem-solving mindset required to bypass developer logic.
 3. **Automate the Boring Stuff with Python** - Learn practical Python. As a hacker, scripting is your superpower for parsing logs and automating repetitive reconnaissance.
 
 ### 🟡 Phase 2: Web & Bug Bounty Core (The Bread & Butter)
 *Your essential reading for making money in bug bounties and landing web pen-test roles.*
+
 4. **The Web Application Hacker’s Handbook (2nd Ed)** - The absolute bible of web security. Though older, the core concepts of how web apps fail remain unchanged.
 5. **Bug Bounty Bootcamp** - Your modern introduction to the bug bounty ecosystem, reporting, and modern web vulns.
 6. **Real-World Bug Hunting** - Fantastic for seeing actual, disclosed bugs. Shows you how vulnerabilities look in the wild, not just in labs.
@@ -27,12 +29,14 @@ Here is the recommended reading order based on your progression:
 
 ### 🟠 Phase 3: Scripting & Tool Development
 *Move from using other people's tools to writing your own exploits.*
+
 8. **Black Hat Python** - Excellent for writing your own network sniffers, keyloggers, and custom Burp extensions.
 9. **Gray Hat Python** - Dives deeper into reverse engineering and building debuggers.
 10. **Violent Python** - *Note: Much of the code is Python 2.* Read this for the concepts of offensive tool development, but write your actual code in modern Python 3.
 
 ### 🔴 Phase 4: Network & Infrastructure Mastery
 *For network penetration testing and red teaming.*
+
 11. **The Hacker Playbook 3** - A tactical, step-by-step guide on how to conduct a professional red team engagement.
 12. **Attacking Network Protocols** - Understand how to intercept, reverse, and exploit custom or obscure network protocols.
 13. **The Practice of Network Security Monitoring** - To be a good attacker, you must know how defenders spot you. 
@@ -40,6 +44,7 @@ Here is the recommended reading order based on your progression:
 
 ### 🟣 Phase 5: Advanced Deep Dives (Malware, Algorithms, & AI)
 *For specialization in reverse engineering, exploit dev, and future-proofing your career.*
+
 15. **Practical Malware Analysis** - The gold standard for dissecting malicious executables. 
 16. **Rootkits and Bootkits** - Deep dive into how malware hides in the deepest parts of an operating system.
 17. **Dive Into Algorithms** - Master algorithm basics to better understand complex backend logic flaws.
