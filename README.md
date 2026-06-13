@@ -1,4 +1,4 @@
-# 📚 Penetration Testing & Bug Bounty Reading Roadmap
+# Penetration Testing & Bug Bounty Reading Roadmap
 
 **Disclaimer:** *For Educational Purposes Only. The knowledge within these resources should never be used commercially without explicit, written permission from the target (i.e., ethical hacking only).*
 
@@ -6,20 +6,20 @@ Welcome to the ultimate reading list for aspiring and seasoned Penetration Teste
 
 ---
 
-## 🗺️ How to Read This Library
+##How to Read This Library
 
 **Do not read these cover-to-cover like a novel.** Technical books are best consumed practically. Read a chapter, then go practice the concepts on platforms like PortSwigger Web Security Academy, HackTheBox, or TryHackMe. 
 
 Here is the recommended reading order based on your progression:
 
-### 🟢 Phase 1: The Foundations (OS & Mindset)
+###Phase 1: The Foundations (OS & Mindset)
 *Before you break things, you must understand how they are built.*
 
 1. **Linux Basics for Hackers** - Start here. You must be completely comfortable in a Linux terminal.
 2. **Think Like a Programmer** - Teaches you the logic and problem-solving mindset required to bypass developer logic.
 3. **Automate the Boring Stuff with Python** - Learn practical Python. As a hacker, scripting is your superpower for parsing logs and automating repetitive reconnaissance.
 
-### 🟡 Phase 2: Web & Bug Bounty Core (The Bread & Butter)
+### Phase 2: Web & Bug Bounty Core (The Bread & Butter)
 *Your essential reading for making money in bug bounties and landing web pen-test roles.*
 
 4. **The Web Application Hacker’s Handbook (2nd Ed)** - The absolute bible of web security. Though older, the core concepts of how web apps fail remain unchanged.
@@ -27,14 +27,14 @@ Here is the recommended reading order based on your progression:
 6. **Real-World Bug Hunting** - Fantastic for seeing actual, disclosed bugs. Shows you how vulnerabilities look in the wild, not just in labs.
 7. **Hacking APIs** - APIs are the modern attack surface. Understanding REST and GraphQL vulnerabilities is mandatory today.
 
-### 🟠 Phase 3: Scripting & Tool Development
+###Phase 3: Scripting & Tool Development
 *Move from using other people's tools to writing your own exploits.*
 
 8. **Black Hat Python** - Excellent for writing your own network sniffers, keyloggers, and custom Burp extensions.
 9. **Gray Hat Python** - Dives deeper into reverse engineering and building debuggers.
 10. **Violent Python** - *Note: Much of the code is Python 2.* Read this for the concepts of offensive tool development, but write your actual code in modern Python 3.
 
-### 🔴 Phase 4: Network & Infrastructure Mastery
+### Phase 4: Network & Infrastructure Mastery
 *For network penetration testing and red teaming.*
 
 11. **The Hacker Playbook 3** - A tactical, step-by-step guide on how to conduct a professional red team engagement.
@@ -42,7 +42,7 @@ Here is the recommended reading order based on your progression:
 13. **The Practice of Network Security Monitoring** - To be a good attacker, you must know how defenders spot you. 
 14. **How to Hack Like a Legend** - A narrative-driven guide showing how a red teamer chains vulnerabilities to completely compromise a target.
 
-### 🟣 Phase 5: Advanced Deep Dives (Malware, Algorithms, & AI)
+### Phase 5: Advanced Deep Dives (Malware, Algorithms, & AI)
 *For specialization in reverse engineering, exploit dev, and future-proofing your career.*
 
 15. **Practical Malware Analysis** - The gold standard for dissecting malicious executables. 
@@ -54,7 +54,7 @@ Here is the recommended reading order based on your progression:
 
 ---
 
-## 🌟 Bonus Reading (Not Included in Repo)
+## Bonus Reading (Not Included in Repo)
 *Once you have mastered the library above, consider tracking down these books to fill in the remaining gaps in the modern hacking landscape:*
 
 * **The Mobile Application Hacker's Handbook:** To bridge the gap into the lucrative world of iOS and Android bug bounties.
@@ -63,7 +63,7 @@ Here is the recommended reading order based on your progression:
 
 ---
 
-## 💡 Pro-Tips for Maximum Retention
+## Pro-Tips for Maximum Retention
 
 * **Build While You Read:** If a book teaches you how to write a directory brute-forcer in Python, pause reading and write it.
 * **Use as References:** Books like *The Web Application Hacker's Handbook* or *Practical Malware Analysis* are heavy. Use them as reference guides when you run into a specific technology on a bug bounty hunt.
