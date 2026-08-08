@@ -6,13 +6,13 @@ Welcome to the ultimate reading list for aspiring and seasoned Penetration Teste
 
 ---
 
-##How to Read This Library
+### How to Read This Library
 
 **Do not read these cover-to-cover like a novel.** Technical books are best consumed practically. Read a chapter, then go practice the concepts on platforms like PortSwigger Web Security Academy, HackTheBox, or TryHackMe. 
 
 Here is the recommended reading order based on your progression:
 
-###Phase 1: The Foundations (OS & Mindset)
+### Phase 1: The Foundations (OS & Mindset)
 *Before you break things, you must understand how they are built.*
 
 1. **Linux Basics for Hackers** - Start here. You must be completely comfortable in a Linux terminal.
